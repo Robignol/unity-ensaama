@@ -41,12 +41,10 @@ public class CubeController : MonoBehaviour
 
       body.velocity = move;
 
-
-
-
-          
     
 
     }
+
+
 
 }
